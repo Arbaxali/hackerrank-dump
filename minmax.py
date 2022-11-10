@@ -29,3 +29,35 @@ def minmax(ar):
 ar =[1,2,3,4,5]
 
 minmax(ar)
+
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it
+
+# a = [1,2,3]
+# b = [4,5,6]
+# out = []
+
+# for i in a:
+#     for j in b:
+#         out.append(i,j)
+        
+# print(out)        
+        
+# co = ['fresh','younf','old']
+
+# print(list(enumerate(co,2019)))
+
+# fruits = ["apple","banana"]
+# quan = [1,2]
+# out = []
+# fruit_tuple0 = (fruits[0],quan[0])
+# out.append(fruit_tuple)
+# print(out)
+
+# def myfunc(name = "hello"):
+#     print("name",name)
+
+# myfunc()
+    
+    
+        
